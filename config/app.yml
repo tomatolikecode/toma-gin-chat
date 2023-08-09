@@ -1,0 +1,3 @@
+mysql:
+  dns: root:fanqie@tcp(43.139.116.74:3306)/toma-gin-chat?charset=utf8mb4&parseTime=True&loc=Local
+redis:
